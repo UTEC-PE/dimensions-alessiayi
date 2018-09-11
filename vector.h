@@ -23,7 +23,7 @@ class Vector {
              
         void set(T datum, int* coordinates); // TODO
              
-        T get(int* coord); // TODO
+        T get(int* coordinates); // TODO
 };
 
 #endif
